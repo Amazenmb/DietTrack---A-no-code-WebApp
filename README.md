@@ -145,7 +145,10 @@ This is a simple, responsive, and customizable **Personal Diet Tracker** built e
 ![image](https://github.com/user-attachments/assets/2e12df75-e1c1-4ff2-a6fc-9dc2e36de399)
 
 ![image](https://github.com/user-attachments/assets/6eb32b43-54e7-4699-a9a2-657863bcd8f6)
+
 ![image](https://github.com/user-attachments/assets/c74ae5bf-9fb6-41db-a8ca-512b9041e55d)
+
+
 
 
 Do check the website and let me know how was it!
